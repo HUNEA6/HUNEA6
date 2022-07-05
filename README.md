@@ -1,6 +1,9 @@
 ## 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
 
 
+[![HUNEA6's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNEA6)](https://github.com/HUNEA6)
+
+
 ✨ Introduce Myself ✨
 
 - 저는 목원대학교 융합컴퓨터 미디어학부에 재학 중인 학생입니다.
@@ -14,7 +17,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white"/></a><br>
-[![HUNEA6's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNEA6)](https://github.com/HUNEA6)
+
 
 <!--
 - 🔭 I’m currently working on ...
