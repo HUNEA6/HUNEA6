@@ -1,7 +1,7 @@
 ## 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
 
 
-[![HUNEA6's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNEA6)](https://github.com/HUNEA6/MWU_SW_Studying)
+[![HUNEA6's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNEA6)](https://github.com/HUNEA6/)
 
 
 ✨ Introduce Myself ✨
