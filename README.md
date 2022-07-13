@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FE7210&height=300&section=header&text=HUNEA6_GitHub&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
-## 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
+ 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
 
 
 [![HUNEA6's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNEA6)](https://github.com/HUNEA6/)
