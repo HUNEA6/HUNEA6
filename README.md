@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=HUNEA6_GitHub&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=HUNEA6_GitHub&fontColor=FF0000&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 ## 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
 
 
