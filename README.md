@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=5BB7FF&height=300&section=header&text=HUNEA6_GitHub&fontColor=00FFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 ## 열심히 기초부터 쌓아가고 있는 김관훈입니다👋
 
 
